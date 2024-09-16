@@ -2,7 +2,7 @@
 
 A simple portfolio template for developer/designers built with React. 
 
-### [live preview](https://ubaimutl.github.io/react-portfolio/)
+### [live preview](https://github.com/lawrencerichardagaga/portfolio/)
 
 [![react portfoiio](src/assets/images/react%20portfolio%20gif.gif)](https://ubaimutl.github.io/react-portfolio/)
 
@@ -18,16 +18,16 @@ A simple portfolio template for developer/designers built with React.
 
 Get the code
 
-<pre>git clone https://github.com/ubaimutl/react-portfolio.git</pre>
+<pre>git clone https://github.com/lawrencerichardagaga/portfolio.git</pre>
  
 Install required dependencies
 
-<pre>yarn install</pre>
+<pre>npm install</pre>
 
 
 Start the server
 
-<pre>yarn start</pre>
+<pre>npm start</pre>
 
 ### More
 
