@@ -116,7 +116,7 @@ const contactConfig = {
 
 const socialprofils = {
     github: "https://github.com/lawrencerichardagaga",
-    linkedin: "https://linkedin.com/in/lawrence-richard",
+    linkedin: "https://www.linkedin.com/in/lawrence-richard-8b7a86327/",
     twitter: "https://twitter.com/lawrence_richard",
 };
 
